@@ -1,9 +1,0 @@
-- params:
-    git:
-      repoName: project-examples-frogbot-test
-      branches:
-        - master
-    scan:
-      projects:
-        - workingDirs:
-            - npm-example
